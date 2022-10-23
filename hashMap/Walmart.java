@@ -1,5 +1,5 @@
 
-package Get;
+package Get.hashMap;
 
 import java.util.HashMap;
 import java.util.Map;
